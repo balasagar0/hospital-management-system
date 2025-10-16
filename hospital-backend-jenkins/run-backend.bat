@@ -1,9 +1,0 @@
-@echo off
-echo Starting Hospital Management System Backend...
-echo.
-echo Building the application...
-call mvnw.cmd clean package -DskipTests
-echo.
-echo Starting the application on port 8081...
-java -jar target/hospital-1.0.0.war --server.port=8081
-pause

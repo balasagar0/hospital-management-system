@@ -1,9 +1,0 @@
-@echo off
-echo Starting Hospital Management System Frontend...
-echo.
-echo Installing dependencies...
-call npm install
-echo.
-echo Starting the development server...
-call npm run dev
-pause
