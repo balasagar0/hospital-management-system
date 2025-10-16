@@ -4,7 +4,7 @@
 This is a Hospital Management System with:
 - **Backend**: Spring Boot REST API
 - **Frontend**: React application
-- **Database**: H2 in-memory database
+- **Database**: MySQL database
 - **Authentication**: JWT-based login/signup
 
 ## Demo Steps
